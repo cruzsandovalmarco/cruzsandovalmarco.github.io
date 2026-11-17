@@ -1,14 +1,27 @@
-WEB ACADEMICA · MARCO CRUZ-SANDOVAL
+SITIO ACADÉMICO — MARCO CRUZ-SANDOVAL
+Versión 3 · diseño editorial monocromático · favicon MCS
 
-Publicación en GitHub Pages:
-1. Abre https://github.com/cruzsandovalmarco/cruzsandovalmarco.github.io
-2. Selecciona Add file > Upload files.
-3. Sube index.html, foto-marco.jpg, favicon.svg, robots.txt y sitemap.xml.
-4. Confirma Commit changes en la rama main.
-5. NO borres ni sustituyas el archivo CNAME que ya existe en el repositorio.
-6. Visita https://marcocruzsandoval.com y actualiza si ves una versión anterior.
+1) Descomprime este archivo ZIP.
+2) Abre tu repositorio https://github.com/cruzsandovalmarco/cruzsandovalmarco.github.io
+3) En Add file > Upload files, sube los siguientes archivos (NO subas el ZIP):
+   - index.html
+   - foto-marco.jpg
+   - favicon.svg
+   - favicon-32.png
+   - apple-touch-icon.png
+   - robots.txt
+   - sitemap.xml
+4) Al tener nombres idénticos a los de la versión anterior, GitHub los reemplazará al guardar.
+5) Confirma con Commit changes en main.
+6) CONSERVA el archivo CNAME que ya está en el repositorio. No lo borres.
+7) Revisa https://marcocruzsandoval.com/ después del despliegue.
+8) Si la pequeña imagen de la pestaña aún dice MC, recarga con Cmd+Shift+R o prueba en incógnito.
+   Los iconos en resultados de Google pueden tardar más en actualizarse.
 
-En Google Search Console puedes registrar el sitemap con la URL:
-https://marcocruzsandoval.com/sitemap.xml
-
-No se ha incluido un correo, teléfono ni enlaces mailto.
+Correcciones importantes incorporadas:
+- Maestría en Energías Renovables terminada en 2026 (no aparece como 'ongoing').
+- Monograma MCS en favicon y en el encabezado.
+- SNII-C indicado como 2023–2026 (sin presentarlo como reconocimiento vigente).
+- No aparece el correo electrónico ni un botón mailto.
+- Secciones: About, Research, Featured work, Publications (con filtros), Background, Connect.
+- No contiene mapas ni visualizaciones interactivas geográficas.
