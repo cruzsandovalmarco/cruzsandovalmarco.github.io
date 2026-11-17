@@ -1,0 +1,14 @@
+WEB ACADEMICA · MARCO CRUZ-SANDOVAL
+
+Publicación en GitHub Pages:
+1. Abre https://github.com/cruzsandovalmarco/cruzsandovalmarco.github.io
+2. Selecciona Add file > Upload files.
+3. Sube index.html, foto-marco.jpg, favicon.svg, robots.txt y sitemap.xml.
+4. Confirma Commit changes en la rama main.
+5. NO borres ni sustituyas el archivo CNAME que ya existe en el repositorio.
+6. Visita https://marcocruzsandoval.com y actualiza si ves una versión anterior.
+
+En Google Search Console puedes registrar el sitemap con la URL:
+https://marcocruzsandoval.com/sitemap.xml
+
+No se ha incluido un correo, teléfono ni enlaces mailto.
